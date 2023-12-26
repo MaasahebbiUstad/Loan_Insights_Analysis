@@ -73,7 +73,7 @@ Explore loan-related insights from human-initiated voice calls using Python for 
   
   Prioritize data cleaning to enhance dataset integrity.
 
-  ## Loan Insights Visualization Gallery:
+  ## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/1a839dfc-2edc-4981-bbed-fcd9b6912aba" width="50" height="48">Loan Insights Visualization Gallery:
 
  <p align="center">
    <img src="https://github.com/MaasahebbiUstad/Loan_Insights_Analysis/assets/137813961/71e93af0-d884-4fbd-a3d8-384376205d46" width="800" >
