@@ -73,6 +73,16 @@ Explore loan-related insights from human-initiated voice calls using Python for 
   
   Prioritize data cleaning to enhance dataset integrity.
 
+  ## Loan Insights Visualization Gallery:
+
+ <p align="center">
+   <img src="https://github.com/MaasahebbiUstad/Loan_Insights_Analysis/assets/137813961/71e93af0-d884-4fbd-a3d8-384376205d46" width="800" >
+ </p>
+
+ - Talk time patterns witnessed a notable increase since March 2023, following a peak in 1990, with a recent slight decline in December 2023. These shifts indicate evolving communication dynamics over time.
+
+
+
 
 
 
