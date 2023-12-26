@@ -61,10 +61,10 @@ Explore loan-related insights from human-initiated voice calls using Python for 
 * **Data Type Conversions:**
   
      Check and convert data types for consistency (e.g., 'dialed_time' to datetime).
-
-* **Duplicate Removal:**
-
-  Identify and analyze duplicates, deciding on a strategy for removal.
+  
+<p align="center">
+<img src="https://github.com/MaasahebbiUstad/Loan_Insights_Analysis/assets/137813961/b5f3f640-4119-453f-957c-faf16dc6bb62" width="800" height="520">
+</p>
 
 ## Data Snapshot:
 
