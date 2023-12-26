@@ -120,6 +120,8 @@ Explore loan-related insights from human-initiated voice calls using Python for 
 - The analysis reveals comparable average EMI amounts for both 'ICD Finance' and 'Smart Finance' across 'postbounce' and 'predue' categories, suggesting relative consistency in payment patterns for these 
   finance companies.
 
+## DashBoard:
+
 <p align="center">
   
  <img src="https://github.com/MaasahebbiUstad/Loan_Insights_Analysis/assets/137813961/d09a6b3c-4692-42af-bec9-064ce108d8a3" width="800" >
