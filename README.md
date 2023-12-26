@@ -1,6 +1,12 @@
 # Loan_Insights_Analysis
 Explore loan-related insights from human-initiated voice calls using Python for data analysis and Excel for visualization. Uncover patterns in loan distribution, customer interactions, and EMI anomalies within the call system.
-<br>
+
+
+<p align="center">
+  <img src="https://github.com/MaasahebbiUstad/Loan_Insights_Analysis/assets/137813961/b5c7e753-7144-4bea-b8ac-dc06b27010ca" width="700" height="320">
+</p>
+
+
 ## <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/030e1f21-e04f-4cbd-b301-3576c8c1acc3"  width="48" height="48">Project Aim:
 
 * Analyze Organization automated voice calling dataset comprehensively
