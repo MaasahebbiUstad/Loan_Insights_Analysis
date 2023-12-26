@@ -54,6 +54,8 @@ Explore loan-related insights from human-initiated voice calls using Python for 
 <p align="center">
 <img src="https://github.com/MaasahebbiUstad/Loan_Insights_Analysis/assets/137813961/0a9b60d5-f9af-429b-b381-4539b6d4de59" width="400" height="520"> <img src="https://github.com/MaasahebbiUstad/Loan_Insights_Analysis/assets/137813961/03220492-898a-440a-9635-a3cdf769295a" width="400" height="520">
 
+<img src="https://github.com/MaasahebbiUstad/Loan_Insights_Analysis/assets/137813961/9601a4dc-3df7-44e8-a530-6db99878edff" width="800" height="520"> 
+
 </p>
 
 * **Data Type Conversions:**
