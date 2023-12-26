@@ -36,7 +36,16 @@ Explore loan-related insights from human-initiated voice calls using Python for 
 
 * **Handling Null Values:**
   
-     Identify columns with null values and choose a strategy for handling them.
+  Identify columns with null values and choose a strategy for handling them.
+
+* **Duplicate Removal:**
+
+  Identify and analyze duplicates, deciding on a strategy for removal.
+
+<p align="center">
+  <img src="https://github.com/MaasahebbiUstad/Loan_Insights_Analysis/assets/137813961/44f6ddad-5cd7-47c3-b743-8b08767149d8"  width="800" height="520">
+</p>
+
 
 * **Addressing '-' in 'ptp_date‘ and ‘reason’:**
 
