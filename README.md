@@ -132,7 +132,8 @@ Explore loan-related insights from human-initiated voice calls using Python for 
 
  </p>
 
-## Insights:
+## <img src="https://github.com/MaasahebbiUstad/Loan_Insights_Analysis/assets/137813961/b3421c52-76cd-4dc5-a09c-3b4ce98b6e6e"  width="48" height="48">Insights:
+
 
 - ### Missing Information:
   
