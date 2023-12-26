@@ -19,7 +19,7 @@ Explore loan-related insights from human-initiated voice calls using Python for 
 * Contribute to enhancements in the automated calling system
 * Work towards improving collection rates through informed insights.
   
-### Tech Stack Used:
+## Tech Stack Used:
 
 <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/065f1ca9-2b47-47b9-88b9-62a2fce746be" alt="Excel GIF" width="60" height="58">
 &nbsp;&nbsp;&nbsp;
@@ -27,7 +27,7 @@ Explore loan-related insights from human-initiated voice calls using Python for 
 &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/MaasahebbiUstad/Loan_Insights_Analysis/assets/137813961/1fcd01af-f140-44a1-ae38-fbbe8129f3bb" alt="Powerpoint GIF" width="64" height="62">
 
-### Data Cleaning Steps:
+## Data Cleaning Steps:
 
 * **Handling Null Values:**
   
@@ -43,7 +43,38 @@ Explore loan-related insights from human-initiated voice calls using Python for 
 
 * **Duplicate Removal:**
 
-  Identify and analyze duplicates, deciding on a strategy for removal .
+  Identify and analyze duplicates, deciding on a strategy for removal.
+
+## Data Snapshot:
+
+- ### Dataset Size:
+  
+  Rows: 137,784
+  
+  Columns: 15
+
+- ### Missing Values:
+  
+  ptp_date: 95,683 (69%)
+
+  reason: 83,665 (61%)
+
+  gender: 95,683 (69%)
+
+- ### Significance:
+  
+  69% null values in crucial columns raise data quality concerns.
+
+- ### Impact on Analysis:
+  
+  Addressing missing values is pivotal for reliable insights.
+
+- ### Recommendation:
+  
+  Prioritize data cleaning to enhance dataset integrity.
+
+
+
 
 
 
