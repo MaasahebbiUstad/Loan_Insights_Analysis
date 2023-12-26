@@ -156,7 +156,7 @@ Explore loan-related insights from human-initiated voice calls using Python for 
 
   Prevalence of 'Unknown,' "-", and 60% blank data indicates challenges in categorizing reasons for delays.
 
-- ## Conclusion:
+## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/4d5c4735-a50c-4876-84c2-b19031384635" height="50" width="48">Conclusions:
 
   The data analysis highlights key insights, such as language-driven collection variations, diverse customer dispositions, and anomalies in EMI amounts. To improve our services, we'll address missing data      issues, refine loan distribution strategies, and enhance communication efforts. These steps will empower us to make better decisions and continually enhance our voice calling services.
 
