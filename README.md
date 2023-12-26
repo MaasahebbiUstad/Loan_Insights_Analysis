@@ -81,6 +81,23 @@ Explore loan-related insights from human-initiated voice calls using Python for 
 
  - Talk time patterns witnessed a notable increase since March 2023, following a peak in 1990, with a recent slight decline in December 2023. These shifts indicate evolving communication dynamics over time.
 
+<p align="center">
+  
+ <img src="https://github.com/MaasahebbiUstad/Loan_Insights_Analysis/assets/137813961/5db410c2-5a8e-4bf6-a14b-09db870ba297" width="500" >
+ 
+</p>
+
+- The time spent talking with customers about loans (talk time) and the loan installment amounts (EMI) don't seem to have a clear connection. In other words, the length of conversations doesn't tell us much 
+  about how much someone pays for their loan each month.
+
+<p align="center">
+  
+ <img src="https://github.com/MaasahebbiUstad/Loan_Insights_Analysis/assets/137813961/d432cf0f-92c7-41c4-9bec-e30d04d717a8" width="600" >
+
+</p>
+
+- The analysis reveals comparable average EMI amounts for both 'ICD Finance' and 'Smart Finance' across 'postbounce' and 'predue' categories, suggesting relative consistency in payment patterns for these 
+  finance companies.
 
 
 
