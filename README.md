@@ -18,6 +18,11 @@ Explore loan-related insights from human-initiated voice calls using Python for 
 * Identify and analyze additional relevant metrics to uncover hidden patterns
 * Contribute to enhancements in the automated calling system
 * Work towards improving collection rates through informed insights.
+
+## <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/057551de-877a-4a41-916c-d47e81053404"  width="48" height="48">Project Objectives:
+
+- Make better decisions
+- Continually enhance voice calling services.
   
 ## Tech Stack Used:
 
